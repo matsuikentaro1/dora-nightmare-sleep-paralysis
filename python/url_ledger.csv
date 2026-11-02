@@ -1,0 +1,12 @@
+site,drug,start_url,paging_rule,snapshot_date,enabled,note
+webmd,suvorexant,https://reviews.webmd.com/drugs/drugreview-166828-belsomra-oral?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-166828-belsomra-oral?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,
+webmd,lemborexant,https://reviews.webmd.com/drugs/drugreview-179241-dayvigo-oral?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-179241-dayvigo-oral?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,
+webmd,daridorexant,https://reviews.webmd.com/drugs/drugreview-183911-quviviq-oral?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-183911-quviviq-oral?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,
+webmd,eszopiclone,https://reviews.webmd.com/drugs/drugreview-92350-lunesta-oral?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-92350-lunesta-oral?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,
+webmd,zaleplon,https://reviews.webmd.com/drugs/drugreview-17532-sonata-oral?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-17532-sonata-oral?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,
+webmd,zolpidem,https://reviews.webmd.com/drugs/drugreview-9690-ambien-oral?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-9690-ambien-oral?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,
+webmd,triazolam,https://reviews.webmd.com/drugs/drugreview-6816-halcion-oral?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-6816-halcion-oral?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,
+webmd,temazepam,https://reviews.webmd.com/drugs/drugreview-9667-restoril-oral?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-9667-restoril-oral?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,
+webmd,ramelteon,https://reviews.webmd.com/drugs/drugreview-94034-rozerem-oral?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-94034-rozerem-oral?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,
+webmd,doxepin,https://reviews.webmd.com/drugs/drugreview-154518-silenor-oral?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-154518-silenor-oral?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,
+webmd,trazodone,https://reviews.webmd.com/drugs/drugreview-11188-trazodone?conditionid=3063,https://reviews.webmd.com/drugs/drugreview-11188-trazodone?conditionid=3063&next_page=true&page={page}&sortval=1,2026-04-24,1,

@@ -1,0 +1,11 @@
+# Review data are not distributed (see README)
+data/
+R/data/
+R/output/
+*.csv
+!python/url_ledger.csv
+*.xlsx
+.env
+__pycache__/
+.Rhistory
+.RData
